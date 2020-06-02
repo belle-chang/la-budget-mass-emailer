@@ -11,10 +11,12 @@ Read up more the issue [here](https://www.gq.com/story/cops-cost-billions).
 
 
 ## INSTALLATION:
-Make sure you have python3 installed on your machine!
+Make sure you have python3 installed on your machine! Then, download this repository.
 
 ## USAGE:
-Go to the terminal and type: `python3 script.py`.
+Go to the terminal and navigate to this repository.
+
+Then, type: `python3 script.py`.
 
 This will prompt you to enter your email, followed by your password. If you entered an incorrect password or invalid email, the script will quit and you will have to re-run the command.
 
